@@ -1,0 +1,38 @@
+h1{
+	color: red;
+	background-color: black;
+	text-align: center;
+	font-weight: bold;
+	
+}
+.first{
+	text-align: center;
+	font-weight: bold;
+}
+.seg{
+	text-align: center;
+	font-weight: bold;
+}
+.quarto{
+	text-align: center;
+	font-weight: bold;
+}
+.central{
+	text-align: center;
+	font-weight: bold;
+	line-height: 25px;
+}
+.five{
+	text-align: center;
+	font-weight: bold;
+ }
+ .one{
+	 background-color: black;
+	 color: red;
+	 
+	 width: 1230px;
+	
+ }
+ h2{
+	 color: red;
+ }
