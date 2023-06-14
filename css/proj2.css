@@ -34,4 +34,7 @@
         position: relative;
         left: 135px;
     }
-    
+   .project-details__desc-para{
+    display: flex;
+    flex-direction: column;
+   }
