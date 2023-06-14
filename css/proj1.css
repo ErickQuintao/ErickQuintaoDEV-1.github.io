@@ -1,0 +1,36 @@
+.carousel-control-next span{
+    background-color: black !important;
+  width: 50px;
+  height: 70px;
+  bottom: 10px;
+  }
+  .carousel-control-prev span{
+    position: relative;
+      background-color: black !important;
+    width: 50px;
+    height: 70px;
+     
+    }
+    .text-primary{
+        color: white !important;
+        font-weight: 700;
+    }
+    .heading-primary{
+        font-weight: 700;
+    }
+    .project-details__content-title{
+        display: flex;
+        justify-content: center;
+    }
+    .project-details__desc-para{
+        display: flex;
+        justify-content: center;
+    }
+    .skills{
+        display: flex;
+        justify-content: center;
+    }
+    .proj-them{
+        position: relative;
+        left: 135px;
+    }
