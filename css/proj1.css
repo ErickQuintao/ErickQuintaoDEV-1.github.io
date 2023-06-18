@@ -34,4 +34,15 @@
         position: relative;
         left: 135px;
     }
-    
+    .main-video video{
+        position: relative;
+        left: 20px;
+        width: 90%;
+        border: 1px solid whitesmoke;
+    }
+    .title-video{
+        position: relative;
+        font-size: 60px;
+        font-weight: 600;
+        left: 29%;
+    }
